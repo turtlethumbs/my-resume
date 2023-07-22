@@ -79,7 +79,7 @@ experiences:
         time: Nov 2019 - Jul 2020
         company: Panya Studios, Bangkok, Thailand
         details: |
-          - Assited senior management to win contracts by demonstrating that our software can perform on a just in time basis.
+          - Assited senior management to win contracts by demonstrating that our software can perform just-in-time.
           - Delivered well written test strategy and test plans which kept team alignment and formalized our testing process.
           - Built a comprehensive manual test case suite from the ground up which empowered all team members to execute painless regression tests.
           - Leveraged AWS CodePipeline to execute automated tests against the software and prevent the release of defective software.
