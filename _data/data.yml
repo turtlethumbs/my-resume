@@ -76,7 +76,7 @@ experiences:
     title: Experiences
     info:
       - role: QA Engineer
-        time: 2019 - 2020
+        time: Nov 2019 - Jul 2020
         company: Panya Studios, Bangkok, Thailand
         details: |
           - Wrote test strategies and plans to define scope of testing, tools, and procedures.
@@ -87,17 +87,13 @@ experiences:
           - Implemented test suite using Appium to create automated E2E tests for mobile devices.
           - Reported on bugs with Jira and Confluence software.
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Game Design Consultant
+        time: Aug 2019 - Nov 2019
+        company: Venomite Studios (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Implemented game development user stories and player interactions in Unity Software.
+          - Plan and estimate the time required to complete game development tasks.
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
