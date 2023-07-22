@@ -231,7 +231,7 @@ skills:
       - name: Python & Django
         level: 60%
 
-      - name: Javascript & jQuery
+      - name: Javascript/TypeScript
         level: 80%
 
       - name: HTML5 & CSS
