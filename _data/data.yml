@@ -231,6 +231,9 @@ skills:
       - name: Jira
         level: 80%
 
+      - name: Jekyll
+        level: 80%
+
       - name: C/C++
         level: 20%
 
