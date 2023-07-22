@@ -79,7 +79,7 @@ experiences:
         time: Nov 2019 - Jul 2020
         company: Panya Studios, Bangkok, Thailand
         details: |
-          - Instrumental in delivering well written test strategy and plans which formalized our QA process.
+          - Instrumental in delivering well written test strategy and plans which served to bring alignment and formalize the testing process.
           - Built a comprehensive manual test case suite from the ground up to ensure proper software function.
           - Leveraged AWS CodePipeline to execute automated tests to prevent defects from escaping into prod.
           - Assited biz dev to win contracts by demonstrating that the software system's performance capability.
