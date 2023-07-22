@@ -75,7 +75,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: QA Engineer
+      - role: Full Stack SDET
         time: Nov 2019 - Jul 2020
         company: Panya Studios, Bangkok, Thailand
         details: |
@@ -94,17 +94,17 @@ experiences:
           - Implemented game development user stories and player interactions in Unity Software.
           - Plan and estimate the time required to complete game development tasks.
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Full Stack Web Developer
+        time: Mar 2014 - Oct 2015
+        company: Ace Mart Restaurant Supply, San Antonio, Texas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Developed websites with WordPress, Drupal CMS, and custom PHP / MVC solutions.
+          - Developed Magento EE theme and modules.
+          - Developed APIs and web apps with PHP, Zend, Slim Framework, and Backbone.js MV*.
+          - Developed tools to automate reporting processes for my department.
+          - Onboarded team members to use Git for versioning.
+          - Managed domain name purchases and renewals.
+
 
 certifications:
       title: Certifications
