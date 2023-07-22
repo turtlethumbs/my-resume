@@ -80,7 +80,7 @@ experiences:
         company: Panya Studios, Bangkok, Thailand
         details: |
           - Instrumental in delivering well written test strategy and test plans which served to bring alignment and formalize the testing process.
-          - Built a comprehensive manual test case suite from the ground up to ensure proper software function.
+          - Built a comprehensive manual test case suite from the ground up which empowered all team members to execute a full regression test with ease.
           - Leveraged AWS CodePipeline to execute automated tests to prevent defects from escaping into prod.
           - Assited biz dev to win contracts by demonstrating that the software system's performance capability.
           - Maintained a well written database of defect reports in Jira software.
