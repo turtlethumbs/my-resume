@@ -79,7 +79,8 @@ experiences:
         time: Nov 2019 - Jul 2020
         company: Panya Studios, Bangkok, Thailand
         details: |
-          - Wrote test strategies and plans to define scope of testing, tools, and procedures.
+          - Delivered well written test strategy and test plans to bring all team members into alignment.
+          - Delivered a comprehensive suite of manual test cases which helped ensure software continued to work.
           - Wrote manual UI test cases and executed them against company software.
           - Wrote CI / CD scripts to test and deploy NodeJS API servers using AWS CodePipeline.
           - Conducted manual UI tests, load and performance testing.
