@@ -75,7 +75,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Full Stack SDET
+      - role: SDET (Full Stack)
         time: Nov 2019 - Jul 2020
         company: Panya Studios, Bangkok, Thailand
         details: |
@@ -94,7 +94,7 @@ experiences:
           - Implemented game development user stories and player interactions in Unity Software.
           - Plan and estimate the time required to complete game development tasks.
 
-      - role: Full Stack Web Developer
+      - role: Web Developer (Full Stack)
         time: Mar 2014 - Oct 2015
         company: Ace Mart Restaurant Supply, San Antonio, Texas
         details: |
