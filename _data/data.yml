@@ -82,7 +82,7 @@ experiences:
           - Assited senior management in winning contracts by demonstrating that our software can perform on a just in time basis.
           - Instrumental in delivering well written test strategy and test plans which kept team alignment and formalized our testing process.
           - Built a comprehensive manual test case suite from the ground up which empowered all team members to execute painless regression tests.
-          - Leveraged AWS CodePipeline to execute automated testing against the software and prevent the deployment of defective build versions. 
+          - Leveraged AWS CodePipeline to execute automated tests against the software and prevent the release of defective software.
           - Reported and tracked the resolution of defects in Jira to ensure new features worked as expected in production.
           - Implemented new features into Angular CMS frontend and NodeJS API Backend.
           - Implemented test suite using Appium to create automated E2E tests for mobile devices.
