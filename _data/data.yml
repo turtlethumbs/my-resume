@@ -83,7 +83,7 @@ experiences:
           - Delivered comprehensive test strategy and test plans which kept team alignment and formalized our testing process.
           - Built a detailed manual test case suite from the ground up which empowered all team members to execute painless regression tests.
           - Leveraged AWS CodePipeline to execute automated tests against the software and prevent releasing defects into production.
-          - Reported well-written defects in Jira and collaborated with team members to ensure a high-degree of software quality.
+          - Reported well-written defects in Jira and collaborated with team members to ensure a high-degree of quality assurance.
           - Contributed to the code in accordance to SOLID principles as full stack web developer to Angular and Node.js systems.
           - Implemented reliable test suite using Appium to automate repetitive smoke testing against Android and iOS release candidates.
 
