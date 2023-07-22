@@ -84,7 +84,7 @@ experiences:
           - Built a comprehensive manual test case suite from the ground up which empowered all team members to execute painless regression tests.
           - Leveraged AWS CodePipeline to execute automated tests against the software and prevent the release of defective software.
           - Reported well-written defects in Jira and aided in their resolution to ensure a high-degree of software quality.
-          - Implemented new features into Angular CMS frontend and NodeJS API Backend.
+          - Contributed to the code in accordance to SOLID principles as full stack web developer to Angular and Node.js systems.
           - Implemented test suite using Appium to create automated E2E tests for mobile devices.
 
       - role: Game Design Consultant
