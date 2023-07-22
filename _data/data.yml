@@ -80,12 +80,12 @@ experiences:
         company: Panya Studios, Bangkok, Thailand
         details: |
           - Instrumental in delivering well written test strategy and plans which formalized our QA process.
-          - Built a comprehensive manual test case suite from the ground up to ensure proper functionality.
+          - Built a comprehensive manual test case suite from the ground up to ensure proper software function.
           - Leveraged AWS CodePipeline to execute automated tests to prevent defects from escaping into prod.
-          - Conducted manual UI tests, load and performance testing.
+          - Assited biz dev to win contracts by demonstrating that the software system's performance capability.
+          - Maintained a well written database of defect reports in Jira software.
           - Implemented new features into Angular CMS frontend and NodeJS API Backend.
           - Implemented test suite using Appium to create automated E2E tests for mobile devices.
-          - Reported on bugs with Jira and Confluence software.
 
       - role: Game Design Consultant
         time: Aug 2019 - Nov 2019
