@@ -75,6 +75,21 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Techincal Lead
+        time: Oct 2020 - Apr 2023
+        company: - Confidential -, Bangkok, Thailand
+        details: |
+          - Conducted code reviews on pull requests into company software repositories.
+          - Conducted on-site interviews and job candidate testing for Software Engineers.
+          - Facilitated Agile SCRUM events for multiple engineering teams.
+          - Facilitated 1-1 meetings with up to seven direct reports.
+          - Maintained automated contract and UI tests in CI / CD pipeline.
+          - Maintained and configured Datadog logging pipelines for multiple systems.
+          - Maintained tech roadmap and prioritizations on a recurring basis with CTO.
+          - Managed outsource team to rewrite two API integrations to Clean Architecture.
+          - Managed epics and user stories for multiple teams in Jira software.
+          - Managed production releases and semantic versioning of software systems.
+
       - role: Software Development Engineer in Test
         time: Nov 2019 - Jul 2020
         company: Panya Studios, Bangkok, Thailand
