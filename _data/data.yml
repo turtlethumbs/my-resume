@@ -81,7 +81,7 @@ experiences:
         details: |
           - Assited senior management to win contracts by demonstrating that our live streaming solution could perform as required.
           - Delivered comprehensive test strategy and test plans which kept team alignment and formalized our testing process.
-          - Built a detailed manual test case suite from the ground up which empowered all team members to execute painless regression tests.
+          - Built a detailed manual test case suite from the ground up which empowered all team members to execute a painless regression.
           - Leveraged AWS CodePipeline to execute automated tests against the software and prevent releasing defects into production.
           - Reported well-written defects in Jira and collaborated with team members to establish a high-degree of quality assurance.
           - Contributed Typescript in accordance to SOLID principles as a full stack developer to Angular and Node.js systems.
