@@ -170,8 +170,7 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: A+
-          details: |
-            The CompTIA A+ certification is designed to help you land an entry-level position in IT by ensuring you know the basics of working with hardware, networks, and computer systems.
+          details:
 
       title: Certifications
       list:
@@ -182,9 +181,8 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: Security+
-          details: |
-            CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career.
-        
+          details: 
+
 projects:
     title: Projects
     intro: >
