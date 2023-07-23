@@ -75,6 +75,14 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: QA Manager
+        time: May 2023 - Current
+        company: Confidential, Bangkok, Thailand
+        details: |
+          - Responsible to manage 28+ QA human resources from accross all skill levels.
+          - Conducted remote job interviews and testing of candidates to determine fit.
+          - Reviewed the efficiency of written test cases in Qase software.
+
       - role: Technical Lead
         time: Oct 2020 - Apr 2023
         company: Confidential, Bangkok, Thailand
