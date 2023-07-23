@@ -79,16 +79,14 @@ experiences:
         time: Oct 2020 - Apr 2023
         company: Confidential, Bangkok, Thailand
         details: |
-          - Conducted code reviews on pull requests into company software repositories.
-          - Conducted on-site interviews and job candidate testing for Software Engineers.
+          - Assisted senior management to win contracts by demonstrating that our internal software system met client expectations.
+          - Delivered two restful API integrations reponsible for syncing products and inventory to Shopify sites.
+          - Slashed the time required to setup development environment for newcomers from four hours to 10 minutes.
+          - Developed Shopify websites for major cosmetic and pet food brands according to design and functional specifications.
+          - Contributed Typescript and Python in accordance to SOLID principles as a full stack developer to REACT and Django systems.
+          - Spearheaded an initiative to advance on path to continuous deployment of the software by formalizing the release process.
+          - Leveraged CircleCI to execute automated tests against the software and prevent releasing defects into production.
           - Facilitated Agile SCRUM events for multiple engineering teams.
-          - Facilitated 1-1 meetings with up to seven direct reports.
-          - Maintained automated contract and UI tests in CI / CD pipeline.
-          - Maintained and configured Datadog logging pipelines for multiple systems.
-          - Maintained tech roadmap and prioritizations on a recurring basis with CTO.
-          - Managed outsource team to rewrite two API integrations to Clean Architecture.
-          - Managed epics and user stories for multiple teams in Jira software.
-          - Managed production releases and semantic versioning of software systems.
 
       - role: Software Development Engineer in Test
         time: Nov 2019 - Sep 2020
