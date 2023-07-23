@@ -171,9 +171,7 @@ certifications:
           credentialurl: 
           credentialname: A+
           details:
-
-      title: Certifications
-      list:
+          
         - name: Security+
           start: 2011
           end: 2020
