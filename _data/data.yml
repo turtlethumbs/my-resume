@@ -163,9 +163,21 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: A+
+          start: 2014
+          end: Expired
+          organization: CompTIA
+          credentialid: 
+          credentialurl: 
+          credentialname: A+
+          details: |
+            The CompTIA A+ certification is designed to help you land an entry-level position in IT by ensuring you know the basics of working with hardware, networks, and computer systems.
+
+      title: Certifications
+      list:
         - name: Security+
           start: 2014
-          end: expired
+          end: Expired
           organization: CompTIA
           credentialid: 
           credentialurl: 
