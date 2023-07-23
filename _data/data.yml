@@ -112,6 +112,33 @@ experiences:
           - Leveraged Google Maps in revamping the company's store locator page accessible to customers throughout Texas.
           - Automated the weekly reporting to roll-up department team member reports into a single email for senior management.
 
+      - role: Maneuver Control System (MCS) Technician
+        time: Jan 2011 – May 2014
+        company: US Army, San Antonio, Texas, USA
+        details: |
+          - Maintained four Sun Servers running VMWare ESX, and routinely configured and managed software patches for multiple virtualized systems running Windows Server 2003 and Windows Server 2008.
+          - Completed over 50 help desk requests for internal users for over 55 laptops running Windows XP and Windows Vista.
+          - Migrated up to 55 laptop information systems from Windows XP to Windows Vista.
+          - Administered routine software updates to over 55 laptops computers running Windows XP and Windows Vista, and 10 virtualized servers running Windows Server 2003 and Windows Server 2008.
+          - Implemented PowerShell and Batch scripts which served to effectively automate routine system maintenance tasks.
+          - Performed routine duties of adding and removing users and computers, creating and removing security groups, and other expected administrative tasks in Active Directory.
+
+      - role: Information Management Officer
+        time: May 2010 - Dec 2010
+        company: US Army, Mannheim, Germany
+        details: |
+          - Implemented BitLocker Drive Encryption on over 100 internal information systems running Windows Vista.
+          - Maintained a Windows Server 2003 file server which provided reliable external file storage to over 100 internal employees.
+          - Facilitated video teleconference meetings for the executives and officials of my organization.
+
+      - role: Information Assurance Security Officer
+        time: Jun 2009 - May 2010
+        company: US Army, Bagram, Afghanistan
+        details: |
+          - Processed over 100 firewall, Blue Coat, and Websense web filter modification requests as an approving authority.
+          - Managed, and consolidated Retina Enterprise Scanner vulnerability assessment reports for over 15,000 information systems distributed throughout Afghanistan.
+          - Planned, managed, and implemented Retina scanning and reporting procedures for eight regional IASOs distributed throughout Afghanistan.
+
 
 certifications:
       title: Certifications
