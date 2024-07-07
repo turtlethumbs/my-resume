@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Alex Shepherd
-    tagline: IT Specialist
+    tagline: QA Manager
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -79,7 +79,7 @@ experiences:
         time: May 2023 - Current
         company: Confidential, Bangkok, Thailand
         details: |
-          - Responsible to manage 28+ QA human resources from across all skill levels.
+          - Managed 30+ Quality Assurance team members across multiple projects.
           - Conducted remote job interviews and testing of candidates to determine fit.
           - Reviewed the efficiency of written test cases in Qase software.
 
@@ -118,7 +118,7 @@ experiences:
         time: Jan 2016 - Aug 2018
         company: Full Sail University, Winter Park, Florida, USA
         details: |
-          - Demolished Full Sail's Bachelor Degree in Game Design program while maxing out my Global Professionalism Standards score to 100 points.
+          - Completed Full Sail's Bachelor Degree in Game Design program while maxing out my Global Professionalism Standards score to 100 points.
           - Graduated as the Valdictorian of my class with a GPA of 3.92
           - Received the Advanced Achievement Award as the top student in my graduating class.
 
@@ -158,7 +158,6 @@ experiences:
           - Processed over 100 firewall, Blue Coat, and Websense web filter modification requests as an approving authority.
           - Managed, and consolidated Retina Enterprise Scanner vulnerability assessment reports for over 15,000 information systems distributed throughout Afghanistan.
           - Planned, managed, and implemented Retina scanning and reporting procedures for eight regional IASOs distributed throughout Afghanistan.
-
 
 certifications:
       title: Certifications
